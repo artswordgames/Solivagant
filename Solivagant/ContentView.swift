@@ -13,7 +13,7 @@ struct ContentView: View {
             Spacer()
             Text("Solivagant")
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
-                .font(.custom("JSL-Blackletter", size: 80))
+                .font(.custom("JSL-Blackletter", size: 99))
                 .foregroundStyle(.white)
             Spacer()
         }
